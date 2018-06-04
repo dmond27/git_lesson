@@ -1,2 +1,5 @@
 This is the repository for the git lessons
-added a new line
+Now I will add multiple lines to the file 
+here is another line 
+and yet another
+.
